@@ -16,5 +16,5 @@ $mvn test
 
 ## Authors
 
-- [@harjforqa](https://github.com/QAEffortless)
+- [@harjforqa](https://github.com/QAEffortless/APC_mobile)
 
