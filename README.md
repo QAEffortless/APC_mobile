@@ -7,11 +7,13 @@ Tools and technologies used
 - TestNG as automation framework
 - Maven as build tool
 
-
 ## Running the test suite
 run the following maven command at project root level
 
+$mvn clean
+$mvn compile
 $mvn test
+
 ## Authors
 
 - [@harjforqa](https://github.com/QAEffortless)
